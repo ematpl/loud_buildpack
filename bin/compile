@@ -2,5 +2,5 @@
 echo "Loud buildpack"
 
 for n in $(seq 1 1000000); do
-  echo This is line $n
+  echo New line $n
 done
