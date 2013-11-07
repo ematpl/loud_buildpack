@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 echo "Loud buildpack"
 
-for n in $(seq 1 10000); do
+for n in $(seq 1 100000); do
   echo New line $n
 done
 
